@@ -40,7 +40,7 @@ This system allows customers to browse products, add them to the cart, and place
 | Server         | XAMPP|
 
 ---
-
+## USER
 LOGIN
 ![Homepage](images/ff1.jpg)
 
@@ -50,6 +50,7 @@ HOMEPAGE
 CART
 ![Homepage](images/ff3.jpg)
 
+## ADMIN
 DASHBOARD
 ![Homepage](images/ff4.jpg)
 

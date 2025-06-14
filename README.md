@@ -42,25 +42,25 @@ This system allows customers to browse products, add them to the cart, and place
 ---
 
 LOGIN
-!![Homepage](images/ff1.jpg)
+![Homepage](images/ff1.jpg)
 
 HOMEPAGE
-!![Homepage](images/ff2.jpg)
+![Homepage](images/ff2.jpg)
 
 CART
-!![Homepage](images/ff3.jpg)
+![Homepage](images/ff3.jpg)
 
 DASHBOARD
-!![Homepage](images/ff4.jpg)
+![Homepage](images/ff4.jpg)
 
 ADD PRODUCT
-!![Homepage](images/ff5.jpg)
+![Homepage](images/ff5.jpg)
 
 USER ACCOUNTS
-!![Homepage](images/ff6.jpg)
+![Homepage](images/ff6.jpg)
 
 DELIVERY ADDRESS
-!![Homepage](images/ff7.jpg)
-!![Homepage](images/ff8.jpg)
-!![Homepage](images/ff9.jpg)
+![Homepage](images/ff7.jpg)
+![Homepage](images/ff8.jpg)
+![Homepage](images/ff9.jpg)
 
